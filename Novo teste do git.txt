@@ -1,0 +1,1 @@
+Agora to fazendo pelo VS code, vamos ver se vai subir o commit e o push
